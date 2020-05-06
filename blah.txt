@@ -1,1 +1,2 @@
 foooooo
+This will be a conflict
