@@ -3,5 +3,9 @@ foooooo
 This will be a conflictdsadasxcxzcxzcxzz
 =======
 foooooodsadsads
+<<<<<<< master
 This will be a conflict
 >>>>>>> v1
+=======
+This will be a conflictdsadas
+>>>>>>> v2
