@@ -1,2 +1,7 @@
+<<<<<<< master
 foooooo
 This will be a conflictdsadasxcxzcxzcxzz
+=======
+foooooodsadsads
+This will be a conflict
+>>>>>>> v1
